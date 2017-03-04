@@ -1,0 +1,2 @@
+# FlexorSlider
+jQuery Слайдер контента
